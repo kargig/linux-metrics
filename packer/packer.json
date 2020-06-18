@@ -5,7 +5,7 @@
     "subnet_id": "",
     "vpc_id": "",
     "aws_region": "eu-west-1",
-    "source_ami": "ami-254ba35c"
+    "source_ami": "ami-05801d0a3c8e4c443"
   },
   "builders": [
     {
