@@ -22,7 +22,7 @@ apt-get -y install linux-headers-$(uname -r) sysdig
 
 # BCC
 apt-get install -y bison build-essential cmake flex git libedit-dev \
-  libllvm3.7 llvm-3.7-dev libclang-3.7-dev python zlib1g-dev libelf-dev luajit luajit-5.1-dev
+  libllvm3.9 llvm-3.9-dev libclang-3.9-dev python zlib1g-dev libelf-dev luajit luajit-5.1-dev arping netperf
 
 cd ~
 git clone https://github.com/iovisor/bcc.git
